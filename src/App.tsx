@@ -40,7 +40,7 @@ const App = () => {
   if (!client) return <div>Setting up client & connection...</div>;
 
   return (
-    <Chat client={client}>
+    <Chat client={client} theme="str-chat__theme-custom">
       <Channel channel={channel}>
         <Window>
           <ChannelHeader />
