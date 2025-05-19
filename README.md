@@ -9,7 +9,7 @@ This project is a simple chat application built with React, TypeScript, and Vite
 1. Clone the repository:
 
    ```bash
-    git clone
+    git clone https://github.com/Skipper-116/chat-example.git
     cd chat-example
    ```
 
